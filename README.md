@@ -1,47 +1,49 @@
 # Vishnu Kumar
 
-🎧 Audio Software & iOS Developer  
-🎹 Music Technology | JUCE | Swift | SwiftUI
+Audio Software Developer  
+C++ | JUCE | iOS Audio
 
-I am an Electronics & Communication Engineering graduate with a strong focus on
-audio software, music technology, and iOS app development.
-
-I build:
-- 🎛 JUCE audio plugins (VST/AU)
-- 📱 iOS apps using Swift & SwiftUI
-- 🔊 Real-time audio and DSP-based applications
+Focused on real-time audio systems, DSP, and cross-platform plugin development.
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
-### 🎚 SimpleGain (JUCE Audio Plugin)
-A minimal real-time gain plugin built using JUCE (VST/AU).
-
-🔗 Repository: https://github.com/vishnu-510/Simple-Gain-JUCE
-
----
-
-### 🎹 Nova EDM Synth (JUCE Synth Plugin)
-A custom EDM sampler synthesizer with genre-based presets and animated UI.
-
-🔗 Repository: https://github.com/vishnu-510/Nova-EDM-Synth-JUCE
+### SlapEnhancer – JUCE Audio Plugin
+Real-time transient and harmonic enhancement plugin built with C++ and JUCE.  
+Implements AudioProcessorValueTreeState for parameter management and structured DSP signal flow.  
+Repository: https://github.com/vishnu-510/SlapEnhancer
 
 ---
 
-### 📱 iOS Audio Apps
-- Loudness Meter (SwiftUI)
-- Key & Tempo Detection App
-
-🔗 GitHub: https://github.com/vishnu-510
+### Nova EDM Synth – JUCE Synth Plugin
+Custom synthesizer with preset system and animated UI built using JUCE.  
+Designed for real-time performance and modular DSP structure.  
+Repository: https://github.com/vishnu-510/Nova-EDM-Synth-JUCE
 
 ---
 
-## 🛠 Skills
-- C++, JUCE, Audio DSP
-- Swift, SwiftUI, UIKit
-- Core Audio, AVFoundation
-- MIDI, Synths, Audio Plugins
-- Logic Pro, FL Studio
+### SimpleGain – JUCE Audio Plugin
+Minimal real-time gain processor demonstrating plugin architecture and parameter handling in JUCE.  
+Repository: https://github.com/vishnu-510/Simple-Gain-JUCE
 
-📫 Reach me on LinkedIn or GitHub
+---
+
+### iOS Audio Applications
+Loudness Meter and Key & Tempo Detection applications built using Swift and SwiftUI.  
+Focused on audio analysis and real-time processing.
+
+---
+
+## Technical Skills
+
+C++, JUCE Framework  
+Audio DSP (Real-Time Processing)  
+AudioProcessorValueTreeState (APVTS)  
+Swift, SwiftUI  
+Core Audio, AVFoundation  
+MIDI, Plugin Architectures  
+
+---
+
+LinkedIn: https://www.linkedin.com/in/vishnu510
