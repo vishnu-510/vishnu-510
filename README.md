@@ -1,7 +1,5 @@
 Vishnu Kumar
 
-Aspiring iOS Developer
-
 Aspiring iOS developer focused on building user-centric mobile applications and real-time audio analysis tools using Swift and Apple frameworks. Passionate about clean architecture, responsive UI design, and high-performance mobile applications.
 
 🔗 LinkedIn
@@ -10,8 +8,7 @@ https://www.linkedin.com/in/vishnu510
 🔗 GitHub
 https://github.com/vishnu-510
 
-
-Featured iOS Projects
+FEATURES iOS PROJECTS :-
 
 Audio Loudness Meter App
 
@@ -85,44 +82,44 @@ https://github.com/vishnu-510/Recipe-Recommendation-App
 
 
 
-Technical Skills
+TECHNICAL SKILLS :-
 
 Languages
 
-Swift
+  Swift
 
 iOS Development
 
-SwiftUI
-UIKit
-MVVM Architecture
-URLSession
-JSON Decoding
-Auto Layout
-Swift Concurrency (async/await)
+  SwiftUI
+  UIKit
+  MVVM Architecture
+  URLSession
+  JSON Decoding
+  Auto Layout
+  Swift Concurrency (async/await)
 
 Frameworks
 
-CoreData
-CoreML
-AVFoundation
-Firebase
+  CoreData
+  CoreML
+  AVFoundation
+  Firebase
 
 Tools
 
-Xcode
-Git
-Swift Package Manager
+  Xcode
+  Git
+  Swift Package Manager
 
 Concepts
 
-REST APIs
-Asynchronous Programming
-Audio Signal Processing
+  REST APIs
+  Asynchronous Programming
+  Audio Signal Processing
 
 
 
-Additional Projects
+ADDITIONAL PROJECTS :-
 
 SlapEnhancer – Audio Plugin
 
@@ -151,20 +148,20 @@ https://github.com/vishnu-510/Simple-Gain-JUCE
 
 
 
-Education
+EDUCATION :-
 
-Bachelor in Electronics and Communication Engineering
+  Bachelor in Electronics and Communication Engineering
 
-Sri Ramakrishna Engineering College
+  Sri Ramakrishna Engineering College
 
-2022 – 2025
+  2022 – 2025
 
 
 
-Certifications
+CERTIFICATIONS :-
 
-SwiftUI – Udemy
+  SwiftUI – Udemy
 
-App Development Using Swift – Udemy
+  App Development Using Swift – Udemy
 
-Introduction to Figma – Udemy
+  Introduction to Figma – Udemy
