@@ -1,49 +1,147 @@
-# Vishnu Kumar
+Vishnu Kumar
 
-Audio Software Developer  
-C++ | JUCE | iOS Audio
+Aspiring iOS Developer focused on building user-centric mobile applications and real-time audio analysis tools using Swift and Apple frameworks.
+Interested in mobile development, clean UI architecture, and performant app design.
 
-Focused on real-time audio systems, DSP, and cross-platform plugin development.
+🔗 LinkedIn: https://www.linkedin.com/in/vishnu510
+🔗 GitHub: https://github.com/vishnu-510
 
----
+⸻
 
-## Featured Projects
+Featured iOS Projects
 
-### SlapEnhancer – JUCE Audio Plugin
-Real-time transient and harmonic enhancement plugin built with C++ and JUCE.  
-Implements AudioProcessorValueTreeState for parameter management and structured DSP signal flow.  
-Repository: https://github.com/vishnu-510/SlapEnhancer
+Audio Loudness Meter App
 
----
+A real-time audio analysis application built using SwiftUI and AVAudioEngine.
 
-### Nova EDM Synth – JUCE Synth Plugin
-Custom synthesizer with preset system and animated UI built using JUCE.  
-Designed for real-time performance and modular DSP structure.  
-Repository: https://github.com/vishnu-510/Nova-EDM-Synth-JUCE
+Features:
+	•	Real-time Peak and RMS loudness monitoring
+	•	Audio buffer processing for accurate level detection
+	•	Clipping detection system
+	•	Stereo balance monitoring with real-time visualization
 
----
+Focus:
+Real-time audio processing and responsive UI design.
 
-### SimpleGain – JUCE Audio Plugin
-Minimal real-time gain processor demonstrating plugin architecture and parameter handling in JUCE.  
-Repository: https://github.com/vishnu-510/Simple-Gain-JUCE
+⸻
 
----
+Key & Tempo Detection App
 
-### iOS Audio Applications
-Loudness Meter and Key & Tempo Detection applications built using Swift and SwiftUI.  
-Focused on audio analysis and real-time processing.
+An audio analysis application that detects tempo and dominant frequency patterns from audio input.
 
----
+Features:
+	•	BPM detection using signal processing techniques
+	•	Frequency analysis for audio feature extraction
+	•	Real-time audio visualization
+	•	SwiftUI interface for interactive analysis
 
-## Technical Skills
+Focus:
+Audio signal analysis and real-time data visualization.
 
-C++, JUCE Framework  
-Audio DSP (Real-Time Processing)  
-AudioProcessorValueTreeState (APVTS)  
-Swift, SwiftUI  
-Core Audio, AVFoundation  
-MIDI, Plugin Architectures  
+⸻
 
----
+Premier League Player Browser
 
-LinkedIn: https://www.linkedin.com/in/vishnu510
+An iOS application that displays football player profiles and team information.
+
+Features:
+	•	Built using UIKit with MVVM architecture
+	•	REST API integration using URLSession
+	•	JSON decoding for dynamic data loading
+	•	Structured navigation and scalable UI components
+
+Focus:
+Clean architecture and API-driven applications.
+
+⸻
+
+Recipe Recommendation App
+
+A SwiftUI application that recommends recipes based on available pantry ingredients.
+
+Features:
+	•	Ingredient-based filtering system
+	•	REST API integration
+	•	Dynamic and responsive SwiftUI interface
+	•	Efficient data parsing using JSON decoding
+
+Focus:
+Data-driven mobile UI development.
+
+⸻
+
+Technical Skills
+
+Languages
+Swift
+
+iOS Development
+SwiftUI
+UIKit
+MVVM Architecture
+URLSession
+JSON Decoding
+Auto Layout
+Swift Concurrency (async/await)
+
+Frameworks
+CoreData
+CoreML
+AVFoundation
+Firebase
+
+Tools
+Xcode
+Git
+Swift Package Manager
+
+Concepts
+REST APIs
+Asynchronous Programming
+Audio Signal Processing
+
+⸻
+
+Additional Projects
+
+SlapEnhancer – Audio Plugin
+
+Real-time transient and harmonic enhancement audio plugin designed for structured DSP processing.
+
+Repository:
+https://github.com/vishnu-510/SlapEnhancer
+
+⸻
+
+Nova EDM Synth
+
+A synthesizer plugin featuring a preset system and animated interface designed for real-time audio performance.
+
+Repository:
+https://github.com/vishnu-510/Nova-EDM-Synth-JUCE
+
+⸻
+
+SimpleGain
+
+A minimal real-time audio processing plugin demonstrating parameter control and plugin architecture.
+
+Repository:
+https://github.com/vishnu-510/Simple-Gain-JUCE
+
+⸻
+
+Education
+
+Bachelor of Engineering
+Electronics and Communication Engineering
+Sri Ramakrishna Engineering College
+2022 – 2025
+
+⸻
+
+Certifications
+
+SwiftUI – Udemy
+App Development Using Swift – Udemy
+Introduction to Figma – Udemy
