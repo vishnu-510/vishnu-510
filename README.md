@@ -165,5 +165,7 @@ Sri Ramakrishna Engineering College
 Certifications
 
 SwiftUI – Udemy
+
 App Development Using Swift – Udemy
+
 Introduction to Figma – Udemy
