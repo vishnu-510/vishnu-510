@@ -154,9 +154,10 @@ https://github.com/vishnu-510/Simple-Gain-JUCE
 
 Education
 
-Bachelor of Engineering
-Electronics and Communication Engineering
+Bachelor in Electronics and Communication Engineering
+
 Sri Ramakrishna Engineering College
+
 2022 – 2025
 
 ⸻
