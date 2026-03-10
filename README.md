@@ -1,10 +1,14 @@
 Vishnu Kumar
 
-Aspiring iOS Developer focused on building user-centric mobile applications and real-time audio analysis tools using Swift and Apple frameworks.
-Interested in mobile development, clean UI architecture, and performant app design.
+Aspiring iOS Developer
 
-🔗 LinkedIn: https://www.linkedin.com/in/vishnu510
-🔗 GitHub: https://github.com/vishnu-510
+Aspiring iOS developer focused on building user-centric mobile applications and real-time audio analysis tools using Swift and Apple frameworks. Passionate about clean architecture, responsive UI design, and high-performance mobile applications.
+
+🔗 LinkedIn
+https://www.linkedin.com/in/vishnu510
+
+🔗 GitHub
+https://github.com/vishnu-510
 
 ⸻
 
@@ -12,7 +16,7 @@ Featured iOS Projects
 
 Audio Loudness Meter App
 
-A real-time audio analysis application built using SwiftUI and AVAudioEngine.
+A real-time audio loudness monitoring application built using SwiftUI and AVAudioEngine.
 
 Features:
 	•	Real-time Peak and RMS loudness monitoring
@@ -23,11 +27,14 @@ Features:
 Focus:
 Real-time audio processing and responsive UI design.
 
+🔗 Repository
+https://github.com/vishnu-510/Loudness-Meter-iOS
+
 ⸻
 
 Key & Tempo Detection App
 
-An audio analysis application that detects tempo and dominant frequency patterns from audio input.
+An audio analysis application that detects tempo (BPM) and dominant frequency patterns from audio input.
 
 Features:
 	•	BPM detection using signal processing techniques
@@ -37,6 +44,9 @@ Features:
 
 Focus:
 Audio signal analysis and real-time data visualization.
+
+🔗 Repository
+https://github.com/vishnu-510/Key-Tempo-Detection-iOS
 
 ⸻
 
@@ -53,6 +63,9 @@ Features:
 Focus:
 Clean architecture and API-driven applications.
 
+🔗 Repository
+https://github.com/vishnu-510/Premier-League-Player-Browser
+
 ⸻
 
 Recipe Recommendation App
@@ -68,14 +81,19 @@ Features:
 Focus:
 Data-driven mobile UI development.
 
+🔗 Repository
+https://github.com/vishnu-510/Recipe-Recommendation-App
+
 ⸻
 
 Technical Skills
 
 Languages
+
 Swift
 
 iOS Development
+
 SwiftUI
 UIKit
 MVVM Architecture
@@ -85,17 +103,20 @@ Auto Layout
 Swift Concurrency (async/await)
 
 Frameworks
+
 CoreData
 CoreML
 AVFoundation
 Firebase
 
 Tools
+
 Xcode
 Git
 Swift Package Manager
 
 Concepts
+
 REST APIs
 Asynchronous Programming
 Audio Signal Processing
@@ -106,27 +127,27 @@ Additional Projects
 
 SlapEnhancer – Audio Plugin
 
-Real-time transient and harmonic enhancement audio plugin designed for structured DSP processing.
+Real-time transient and harmonic enhancement plugin designed for structured DSP processing and real-time parameter control.
 
-Repository:
+🔗 Repository
 https://github.com/vishnu-510/SlapEnhancer
 
 ⸻
 
 Nova EDM Synth
 
-A synthesizer plugin featuring a preset system and animated interface designed for real-time audio performance.
+A synthesizer plugin with preset management and animated UI designed for real-time audio performance.
 
-Repository:
+🔗 Repository
 https://github.com/vishnu-510/Nova-EDM-Synth-JUCE
 
 ⸻
 
 SimpleGain
 
-A minimal real-time audio processing plugin demonstrating parameter control and plugin architecture.
+A minimal real-time audio processor demonstrating parameter handling and plugin architecture.
 
-Repository:
+🔗 Repository
 https://github.com/vishnu-510/Simple-Gain-JUCE
 
 ⸻
