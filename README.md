@@ -10,7 +10,6 @@ https://www.linkedin.com/in/vishnu510
 🔗 GitHub
 https://github.com/vishnu-510
 
-⸻
 
 Featured iOS Projects
 
@@ -30,7 +29,7 @@ Real-time audio processing and responsive UI design.
 🔗 Repository
 https://github.com/vishnu-510/Loudness-Meter-iOS
 
-⸻
+
 
 Key & Tempo Detection App
 
@@ -48,7 +47,7 @@ Audio signal analysis and real-time data visualization.
 🔗 Repository
 https://github.com/vishnu-510/Key-Tempo-Detection-iOS
 
-⸻
+
 
 Premier League Player Browser
 
@@ -66,7 +65,7 @@ Clean architecture and API-driven applications.
 🔗 Repository
 https://github.com/vishnu-510/Premier-League-Player-Browser
 
-⸻
+
 
 Recipe Recommendation App
 
@@ -84,7 +83,7 @@ Data-driven mobile UI development.
 🔗 Repository
 https://github.com/vishnu-510/Recipe-Recommendation-App
 
-⸻
+
 
 Technical Skills
 
@@ -121,7 +120,7 @@ REST APIs
 Asynchronous Programming
 Audio Signal Processing
 
-⸻
+
 
 Additional Projects
 
@@ -132,7 +131,7 @@ Real-time transient and harmonic enhancement plugin designed for structured DSP 
 🔗 Repository
 https://github.com/vishnu-510/SlapEnhancer
 
-⸻
+
 
 Nova EDM Synth
 
@@ -141,7 +140,7 @@ A synthesizer plugin with preset management and animated UI designed for real-ti
 🔗 Repository
 https://github.com/vishnu-510/Nova-EDM-Synth-JUCE
 
-⸻
+
 
 SimpleGain
 
@@ -150,7 +149,7 @@ A minimal real-time audio processor demonstrating parameter handling and plugin 
 🔗 Repository
 https://github.com/vishnu-510/Simple-Gain-JUCE
 
-⸻
+
 
 Education
 
@@ -160,7 +159,7 @@ Sri Ramakrishna Engineering College
 
 2022 – 2025
 
-⸻
+
 
 Certifications
 
