@@ -14,7 +14,7 @@ A real time audio loudness monitoring application built using SwiftUI and AVAudi
 - Stereo balance monitoring
 - Audio buffer processing
 
-🔗 https://github.com/vishnu-510/Loudness-Meter-iOS
+🔗 https://github.com/vishnu-510/Loudness-Meter-iOS-
 
 ---
 
@@ -26,7 +26,7 @@ An audio analysis application that detects BPM and musical key from audio input.
 - Real time visualization
 - SwiftUI interactive UI
 
-🔗 https://github.com/vishnu-510/Key-Tempo-Detection-iOS
+🔗 https://github.com/vishnu-510/KeyTempo-iOS
 
 ---
 
@@ -37,9 +37,9 @@ Cross platform audio plugins built using C++ and JUCE framework.
 - Custom audio effects and synthesizers
 - Parameter handling and UI development
 
-🔗 https://github.com/vishnu-510/Nova-EDM-Synth-JUCE  
-🔗 https://github.com/vishnu-510/SlapEnhancer  
-🔗 https://github.com/vishnu-510/Simple-Gain-JUCE  
+🔗 https://github.com/vishnu-510/Nova-EDM-Synth-JUCE
+🔗 https://github.com/vishnu-510/SlapEnhancer 
+🔗 https://github.com/vishnu-510/Simple-Gain-JUCE
 
 ---
 
