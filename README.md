@@ -1,167 +1,62 @@
-Vishnu Kumar
+# Vishnu Kumar
 
-Aspiring iOS developer focused on building user-centric mobile applications and real-time audio analysis tools using Swift and Apple frameworks. Passionate about clean architecture, responsive UI design, and high-performance mobile applications.
+iOS Developer focused on building real time audio applications and clean mobile architectures.
 
-🔗 LinkedIn
-https://www.linkedin.com/in/vishnu510
+I work with Swift and SwiftUI to create high performance apps using AVFoundation and modern Apple frameworks.
 
-🔗 GitHub
-https://github.com/vishnu-510
+## Key Projects
 
-FEATURES iOS PROJECTS :-
+### Real Time Loudness Meter iOS App
+A real time audio loudness monitoring application built using SwiftUI and AVAudioEngine.
 
-Audio Loudness Meter App
+- Peak and RMS loudness detection
+- Real time waveform visualization
+- Stereo balance monitoring
+- Audio buffer processing
 
-A real-time audio loudness monitoring application built using SwiftUI and AVAudioEngine.
+🔗 https://github.com/vishnu-510/Loudness-Meter-iOS
 
-Features:
-	•	Real-time Peak and RMS loudness monitoring
-	•	Audio buffer processing for accurate level detection
-	•	Clipping detection system
-	•	Stereo balance monitoring with real-time visualization
+---
 
-Focus:
-Real-time audio processing and responsive UI design.
+### Real Time Tempo and Key Detection iOS App
+An audio analysis application that detects BPM and musical key from audio input.
 
-🔗 Repository
-https://github.com/vishnu-510/Loudness-Meter-iOS
+- Signal processing based BPM detection
+- Frequency analysis for key detection
+- Real time visualization
+- SwiftUI interactive UI
 
+🔗 https://github.com/vishnu-510/Key-Tempo-Detection-iOS
 
+---
 
-Key & Tempo Detection App
+### Audio Plugins using JUCE
+Cross platform audio plugins built using C++ and JUCE framework.
 
-An audio analysis application that detects tempo (BPM) and dominant frequency patterns from audio input.
+- Real time DSP processing
+- Custom audio effects and synthesizers
+- Parameter handling and UI development
 
-Features:
-	•	BPM detection using signal processing techniques
-	•	Frequency analysis for audio feature extraction
-	•	Real-time audio visualization
-	•	SwiftUI interface for interactive analysis
+🔗 https://github.com/vishnu-510/Nova-EDM-Synth-JUCE  
+🔗 https://github.com/vishnu-510/SlapEnhancer  
+🔗 https://github.com/vishnu-510/Simple-Gain-JUCE  
 
-Focus:
-Audio signal analysis and real-time data visualization.
+---
 
-🔗 Repository
-https://github.com/vishnu-510/Key-Tempo-Detection-iOS
+## Tech Stack
 
+Swift  
+SwiftUI  
+AVFoundation  
+C++  
+JUCE  
+MVVM  
+REST APIs  
+Audio Signal Processing  
 
+---
 
-Premier League Player Browser
+## Links
 
-An iOS application that displays football player profiles and team information.
-
-Features:
-	•	Built using UIKit with MVVM architecture
-	•	REST API integration using URLSession
-	•	JSON decoding for dynamic data loading
-	•	Structured navigation and scalable UI components
-
-Focus:
-Clean architecture and API-driven applications.
-
-🔗 Repository
-https://github.com/vishnu-510/Premier-League-Player-Browser
-
-
-
-Recipe Recommendation App
-
-A SwiftUI application that recommends recipes based on available pantry ingredients.
-
-Features:
-	•	Ingredient-based filtering system
-	•	REST API integration
-	•	Dynamic and responsive SwiftUI interface
-	•	Efficient data parsing using JSON decoding
-
-Focus:
-Data-driven mobile UI development.
-
-🔗 Repository
-https://github.com/vishnu-510/Recipe-Recommendation-App
-
-
-
-TECHNICAL SKILLS :-
-
-Languages
-
-  Swift
-
-iOS Development
-
-  SwiftUI
-  UIKit
-  MVVM Architecture
-  URLSession
-  JSON Decoding
-  Auto Layout
-  Swift Concurrency (async/await)
-
-Frameworks
-
-  CoreData
-  CoreML
-  AVFoundation
-  Firebase
-
-Tools
-
-  Xcode
-  Git
-  Swift Package Manager
-
-Concepts
-
-  REST APIs
-  Asynchronous Programming
-  Audio Signal Processing
-
-
-
-ADDITIONAL PROJECTS :-
-
-SlapEnhancer – Audio Plugin
-
-Real-time transient and harmonic enhancement plugin designed for structured DSP processing and real-time parameter control.
-
-🔗 Repository
-https://github.com/vishnu-510/SlapEnhancer
-
-
-
-Nova EDM Synth
-
-A synthesizer plugin with preset management and animated UI designed for real-time audio performance.
-
-🔗 Repository
-https://github.com/vishnu-510/Nova-EDM-Synth-JUCE
-
-
-
-SimpleGain
-
-A minimal real-time audio processor demonstrating parameter handling and plugin architecture.
-
-🔗 Repository
-https://github.com/vishnu-510/Simple-Gain-JUCE
-
-
-
-EDUCATION :-
-
-  Bachelor in Electronics and Communication Engineering
-
-  Sri Ramakrishna Engineering College
-
-  2022 – 2025
-
-
-
-CERTIFICATIONS :-
-
-  SwiftUI – Udemy
-
-  App Development Using Swift – Udemy
-
-  Introduction to Figma – Udemy
+LinkedIn: https://www.linkedin.com/in/vishnu510  
+GitHub: https://github.com/vishnu-510
