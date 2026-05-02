@@ -6,13 +6,25 @@ I work with Swift and SwiftUI to create high performance apps using AVFoundation
 
 ## Key Projects
 
+### Multi Currency Wallet iOS App
+A modern finance application for managing multiple currencies with real time exchange rates and analytics.
+
+- Real time currency conversion using REST APIs  
+- Portfolio tracking with charts and insights (Swift Charts)  
+- Transaction history and send money functionality  
+- MVVM architecture with async/await  
+
+🔗 https://github.com/vishnu-510/-MultiCurrencyWallet-iOS/tree/main
+
+---
+
 ### Real Time Loudness Meter iOS App
 A real time audio loudness monitoring application built using SwiftUI and AVAudioEngine.
 
-- Peak and RMS loudness detection
-- Real time waveform visualization
-- Stereo balance monitoring
-- Audio buffer processing
+- Peak and RMS loudness detection  
+- Real time waveform visualization  
+- Stereo balance monitoring  
+- Audio buffer processing  
 
 🔗 https://github.com/vishnu-510/Loudness-Meter-iOS-
 
@@ -21,10 +33,10 @@ A real time audio loudness monitoring application built using SwiftUI and AVAudi
 ### Real Time Tempo and Key Detection iOS App
 An audio analysis application that detects BPM and musical key from audio input.
 
-- Signal processing based BPM detection
-- Frequency analysis for key detection
-- Real time visualization
-- SwiftUI interactive UI
+- Signal processing based BPM detection  
+- Frequency analysis for key detection  
+- Real time visualization  
+- SwiftUI interactive UI  
 
 🔗 https://github.com/vishnu-510/KeyTempo-iOS
 
@@ -33,13 +45,13 @@ An audio analysis application that detects BPM and musical key from audio input.
 ### Audio Plugins using JUCE
 Cross platform audio plugins built using C++ and JUCE framework.
 
-- Real time DSP processing
-- Custom audio effects and synthesizers
-- Parameter handling and UI development
+- Real time DSP processing  
+- Custom audio effects and synthesizers  
+- Parameter handling and UI development  
 
-🔗 https://github.com/vishnu-510/Nova-EDM-Synth-JUCE
-🔗 https://github.com/vishnu-510/SlapEnhancer 
-🔗 https://github.com/vishnu-510/Simple-Gain-JUCE
+🔗 https://github.com/vishnu-510/Nova-EDM-Synth-JUCE  
+🔗 https://github.com/vishnu-510/SlapEnhancer  
+🔗 https://github.com/vishnu-510/Simple-Gain-JUCE  
 
 ---
 
